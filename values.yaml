@@ -1,0 +1,6 @@
+pv_name: camel-pv
+namespace: camel-caravan
+storage: 16G
+nfsPath: /mnt/camel-data
+server: o2-nfs.private.ossim.io
+
